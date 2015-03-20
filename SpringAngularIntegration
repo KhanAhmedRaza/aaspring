@@ -1,0 +1,4 @@
+This war file contains example of Spring MVC itegration with Angular JS. Spring MVC sends JSON request which AngularJS controllers uses
+to display the content.
+
+For conveting to JSON we need to use Jackson-core-asl and jackson-mapper-asl in build path.
